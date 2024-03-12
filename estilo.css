@@ -308,5 +308,21 @@
                font-size: 17px;
 
           }
+          /* Footer */ 
+
+          footer .linha1{
+               flex-direction: column;
+
+          }
+
+          footer .endereco{
+               display: flex;
+               justify-content: center;
+               margin-bottom: 5px;
+          }
+
+          footer .linha2{
+               margin-top: 20px;
+          }
           
      }
